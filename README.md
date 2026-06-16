@@ -155,8 +155,8 @@ Promote additional banking products, as customers with multiple products tend to
 
 ## 📁 Project Structure
 
-```text
-Bank-Customer-Churn-Analysis
+```
+Bank-CRM-Analysis-SQL-PowerBI
 │
 ├── Dataset
 │     └── Bank_CRM_Cleaned.xlsx
@@ -167,11 +167,16 @@ Bank-Customer-Churn-Analysis
 ├── PowerBI
 │     └── Bank_CRM_Dashboard.pbix
 │
+├── Documentation
+│     └── Bank_CRM_Documentation_Report.docx
+│
 ├── Presentation
 │     └── Bank_CRM_Presentation.pptx
 │
-├── Documentation
-│     └── Bank_CRM_Documentation_Report.docx
+├── Images
+│     ├── Customer_Demographics.png
+│     ├── Product_Engagement.png
+│     └── Churn_Analysis.png
 │
 └── README.md
 ```
